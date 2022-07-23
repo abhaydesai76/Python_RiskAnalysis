@@ -1,4 +1,4 @@
-# Python_RiskAnalysis
+# Python_RiskAnalysis / Risk Analysis of Stocks
 Repository having python risk analysis for 2 investors, and suggesting stocks to invest based on risk appetite and exxpected return
 
 Problem Statement – investor risk profiling and portfolio recommendation:
